@@ -1,0 +1,52 @@
+.container {
+  margin-left: 650px;
+  border: 1px solid;
+  width: 300px;
+  text-align: center;
+}
+.link {
+  list-style: none;
+  font-size: 20px;
+  color: red;
+  line-height: 160%;
+}
+span {
+  color: rgb(47, 141, 243);
+}
+.text {
+  margin: 15px;
+  color: #585757;
+}
+h2 {
+  color: #f99a1e;
+}
+input {
+  margin: 10px;
+}
+.btn {
+  width: 15%;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(244, 191, 112);
+  color: #fff;
+}
+.btn:hover {
+  background-color: #f99a1e;
+}
+.todos {
+  width: 500px;
+  margin-left: 550px;
+}
+.h2 {
+  color: #ca7f1d;
+}
+.id-link {
+  color: #000;
+  font-size: 20px;
+  margin-left: 200px;
+}
+.p {
+  font-size: 20px;
+  font-weight: 500;
+}
